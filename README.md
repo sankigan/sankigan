@@ -41,7 +41,6 @@ Coding <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 <img src="assets/images/Star.png" width="25"/>&nbsp;[Give a star to this project](https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik) <br/>
 <img src="assets/images/Folded Hands Light Skin Tone.png" width="25"/>&nbsp;[Follow me on GitHub](https://github.com/Tarikul-Islam-Anik)<br/>
 <img src="assets/images/Globe with Meridians.png" width="25"/>&nbsp;[Checkout my portfolio](https://oxyzen.vercel.app/)<br/>
-<img src="assets/images/Writing Hand Light Skin Tone.png" width="25"/>&nbsp;[Read my blogs](https://oxyzen.vercel.app/blog)<br/>
-<img src="assets/images/Hot Beverage.png" width="25"> [Buy me a coffee](https://ko-fi.com/oxyzen) (Tired of drinking Tea)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="25" height="25" /> [Read my blogs](https://oxyzen.vercel.app/blog)<br/>
 
 #### Thanks for visiting! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Partying%20Face.png" alt="Partying Face" width="25" height="25" />
