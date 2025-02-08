@@ -1,5 +1,4 @@
-### Hi there 
-<img height="20" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
+### Hi there <img src="assets/images/Waving Hand Medium-Light Skin Tone.png" width="20px">
 
 **Languages And Tools:**
 
