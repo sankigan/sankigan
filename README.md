@@ -14,6 +14,8 @@
   </a>
 </p>
 
+### Github Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" />
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankigan&layout=compact)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sankigan&theme=vue&hide_border=true)
