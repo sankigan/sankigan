@@ -20,6 +20,24 @@ Throughout my time coding, I've improved my problem-solving skills through vario
   </a>
 </p>
 
+In recent years, I've been learning new technologies and languages. These are the ones I've learned so far.
+| **#** | **Language** | **Proficiency** |
+| :------------------------------------------------------------------------------------------------------------: | :----------: | :-------------------------------------------------------------------: |
+|<img src="assets/icons/StackOverflow.svg" width="25">|`CTRL+C & CTRL+V`|<img src="assets/images/Fire.png" alt="Mastery" width="25">|
+|<a href="https://www.python.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue2.svg" width="25"></a> | `Python`|<img src="assets/images/Flexed Biceps Light Skin Tone.png" alt="Advance" width="25"> |
+| <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="assets/icons/C.svg" width="25"></a> | `C` | <img src="assets/images/Nerd Face.png" alt="Intermediate" width="25"> |
+| <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="assets/icons/CPP.svg" width="25"></a> | `C++` | <img src="assets/images/Nerd Face.png" alt="Intermediate" width="25"> |
+|<a href="https://www.javascript.com/"><img src="assets/icons/JavaScript.svg" width="25"></a>|`JavaScript` | <img src="assets/images/Flexed Biceps Light Skin Tone.png" alt="Advance" width="25">|
+|<a href="https://tailwindcss.com/"><img src="assets/icons/TailwindCSS.svg" width="25"></a>| `TailwindCSS`| <img src="assets/images/Nerd Face.png" alt="Intermediate" width="25">|
+|<a href="https://reactjs.org/"><img src="assets/icons/React.svg" width="25"></a> | `ReactJS` | <img src="assets/images/Nerd Face.png" alt="Intermediate" width="25">|
+| <a href="https://nextjs.org/"><img src="assets/icons/NextJS.svg" width="25"></a>|`NextJS` | <img src="assets/images/Flexed Biceps Light Skin Tone.png" alt="Advance" width="25">|
+|<a href="https://nodejs.org/"><img src="assets/icons/NodeJS.svg" width="25"></a> | `NodeJS`| <img src="assets/images/Confused Face.png" alt="Beginner" width="25">|
+| <a href="https://expressjs.com/"><img src="assets/icons/ExpressJS.svg" width="25"></a>| `ExpressJS`| <img src="assets/images/Confused Face.png" alt="Beginner" width="25">|
+|<a href="https://www.djangoproject.com/"><img src="assets/icons/Django.svg" width="25"></a>|`Django`|<img src="assets/images/Confused Face.png" alt="Beginner" width="25">|
+|<a href="https://dart.dev/"><img src="assets/icons/Dart-Light.svg" width="25"></a>|`Dart`|<img src="assets/images/Nerd Face.png" alt="Beginner" width="25">|
+|<a href="https://www.swift.org/"><img src="assets/icons/Swift.svg" width="25"></a>|`Swift`|<img src="assets/images/Confused Face.png" alt="Beginner" width="25">|
+|<a href="https://soliditylang.org/"><img src="assets/icons/Solidity.svg" width="25"></a>|`Solidity`|<img src="assets/images/Confused Face.png" alt="Beginner" width="25">|
+
 > Printed "Hello World!" in `15 other languesges`.
 
 ## Github Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" />
