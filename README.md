@@ -18,11 +18,6 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Github Stats
 
-<div>
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankigan&layout=compact" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=sankigan&show_icons=true" />
-</div>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankigan&layout=compact)
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sankigan&show_icons=true&theme=) -->
