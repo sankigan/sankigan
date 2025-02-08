@@ -16,17 +16,8 @@
 
 ### Github Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" />
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankigan&layout=compact" height="40" />
-  </a>
-</p>
-
-<p align="right">
-  <a href="https://skillicons.dev">
-    <img src="https://github-readme-stats.vercel.app/api?username=sankigan&show_icons=true" height="40" />
-  </a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankigan&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=sankigan&show_icons=true" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankigan&layout=compact)
 
