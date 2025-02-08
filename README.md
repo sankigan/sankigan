@@ -1,6 +1,6 @@
 ![SANKI](https://res.wx.qq.com/op_res/2hN3hZ16nzljLlWgdkGCauMA8XGwXnVy3yv4XEozv8E4IzWCI8pDvMvVslUBw1INddjFiFrhao5Sj2O3HdvE3g)
 
-### Hi there! <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
+### Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Nothing+You+Could+Do&size=22&pause=1000&color=FFFFFF&width=500&lines=where+creativity+meets+code" />
@@ -19,7 +19,7 @@
 ### Github Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" />
 
 <div>
-  <img align="top" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankigan&layout=compact" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankigan&layout=compact" />
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=sankigan&show_icons=true" />
 </div>
 
