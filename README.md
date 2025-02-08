@@ -38,9 +38,8 @@ Coding <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 
 ## Loved my work? <img src="assets/images/Heart on Fire.png" width="30">
 
-<img src="assets/images/Star.png" width="25"/>&nbsp;[Give a star to this project](https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik) <br/>
-<img src="assets/images/Folded Hands Light Skin Tone.png" width="25"/>&nbsp;[Follow me on GitHub](https://github.com/Tarikul-Islam-Anik)<br/>
-<img src="assets/images/Globe with Meridians.png" width="25"/>&nbsp;[Checkout my portfolio](https://oxyzen.vercel.app/)<br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="25" height="25" /> [Read my blogs](https://oxyzen.vercel.app/blog)<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> [Give a star to this project](https://github.com/sankigan/sankigan) <br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="25" height="25" /> [Follow me on GitHub](https://github.com/sankigan)<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="25" height="25" /> [Read my blogs](https://sankigan.github.io)<br/>
 
 #### Thanks for visiting! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Partying%20Face.png" alt="Partying Face" width="25" height="25" />
