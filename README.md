@@ -2,7 +2,9 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> 
 
-*Now I'm working at Tencent as a web frontend developer.*
+**I'm sanki. Now I'm working at Tencent as a web frontend developer.**
+
+**Throughout my time coding, I've improved my problem-solving skills through various languages and coding practices. What sets me apart is my unwavering commitment to problem-solving. I thrive on tackling challenges head-on and delivering results, no matter the complexity.**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Nothing+You+Could+Do&size=22&pause=1000&color=FFFFFF&width=500&lines=where+creativity+meets+code" />
