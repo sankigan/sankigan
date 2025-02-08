@@ -10,6 +10,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankigan&layout=compact)
 
----
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sankigan&theme=vue)
