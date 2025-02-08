@@ -20,7 +20,7 @@ Throughout my time coding, I've improved my problem-solving skills through vario
   </a>
 </p>
 
-> Printed "Hello, World!" in `15 other languesges`.
+> Printed "Hello World!" in `15 other languesges`.
 
 ## Github Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" />
 
@@ -30,4 +30,4 @@ Throughout my time coding, I've improved my problem-solving skills through vario
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sankigan&theme=vue&hide_border=true)
 
-### Thanks for visiting! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Partying%20Face.png" alt="Partying Face" width="25" height="25" />
+#### Thanks for visiting! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Partying%20Face.png" alt="Partying Face" width="25" height="25" />
