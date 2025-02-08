@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
+## Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Nothing+You+Could+Do&size=22&pause=1000&color=FFFFFF&width=500&lines=where+creativity+meets+code" />
@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Nothing+You+Could+Do&size=22&pause=1000&color=000000&width=500&lines=where+creativity+meets+code" />
 </picture>
 
-### Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
+## Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
 
 <p align="left">
   <a href="https://skillicons.dev">
